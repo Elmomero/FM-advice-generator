@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Elmomero/navigation-menu-app](https://github.com/Elmomero/navigation-menu-app)
-- Live Site URL: [https://elmomero.github.io/navigation-menu-app/](https://elmomero.github.io/navigation-menu-app/)
+- Solution URL: [https://github.com/Elmomero/FM-advice-generator](https://github.com/Elmomero/FM-advice-generator)
+- Live Site URL: [https://elmomero.github.io/FM-advice-generator/](https://elmomero.github.io/FM-advice-generator/)
 
 ### Built with
 
